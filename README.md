@@ -2,7 +2,7 @@
 
 A powerful, extensible Swiss Army knife for file and directory manipulation tasks.
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/GyroZeplix/simonsays)](https://goreportcard.com/report/github.com/GyroZepelix/simonsays)
+[![Go Report Card](https://goreportcard.com/badge/github.com/GyroZepelix/simonsays)](https://goreportcard.com/report/github.com/GyroZepelix/simonsays)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
