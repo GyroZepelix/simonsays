@@ -46,7 +46,7 @@ just install
 ```bash
 git clone https://github.com/GyroZepelix/simonsays.git
 cd simonsays
-go build -o bin/simonsays cmd/simonsays/main.go
+go build -o simonsays cmd/simonsays/main.go
 ```
 
 ### Using Go Install
