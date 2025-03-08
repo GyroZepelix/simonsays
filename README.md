@@ -37,6 +37,7 @@ cd simonsays
 # Build the binary
 just build
 
+# Or move the binary to $GOPATH/bin
 just install
 ```
 

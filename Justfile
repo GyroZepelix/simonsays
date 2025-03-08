@@ -31,7 +31,7 @@ clean:
 # Install the binary
 install:
     @echo "Installing {{bin}}"
-    go install
+    go install {{bin_path}}{{bin}}
 
 # Create a release build for multiple platforms
 release:
